@@ -162,6 +162,7 @@ After starting one of the scripts, you can begin interacting with your Android d
 
 If you use **HintQT5** in your research or project, please cite it as:
 
-**Sanvi Shukla. (2025).** *HintQT5: Context-Aware Hint Text Generation using Reinforcement Learning.*  
+**Sanvi Shukla and Yogesh K. Meena. (2025).** *HintQT5: Context-Aware Hint Text Generation using Reinforcement Learning.*  
 _In Proceedings of India HCI 2025 – The 16th International Conference of Human-Computer Interaction (HCI) Design & Research (IndiaHCI ’25), November 7–9, 2025, Delhi, India._  
 Association for Computing Machinery. https://doi.org/10.1145/3768633.3770136
+
